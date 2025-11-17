@@ -4,5 +4,5 @@
 
 build_autovo.py - The main brains. Does all the heavy lifting. This must be executed from within WSL's voxcpm venv. 
 
-
+Weidu.exe / conf - Required for most parts of interacting with Infinity Engine pieces. Included for convenience here, but you can also source from https://weidu.org/ if you don't trust any random exe on the internet (good on you!)
 
