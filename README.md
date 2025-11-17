@@ -8,6 +8,8 @@ build_autovo.py - The main brains. Does all the heavy lifting. This must be exec
 
 Weidu.exe / conf - Required for most parts of interacting with Infinity Engine pieces. Included for convenience here, but you can also source from https://weidu.org/ if you don't trust any random exe on the internet (good on you!)
 
+VoxCPM: https://github.com/OpenBMB/VoxCPM
+
 Installation of packs:
 Run included 00AutoVOInstall.ps1 powershell script to install the packs with weidu.exe. You might need to run weidu.exe once from command line, if you didn't download the conf file as well.
 
