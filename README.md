@@ -8,6 +8,11 @@ build_autovo.py - The main brains. Does all the heavy lifting. This must be exec
 
 Weidu.exe / conf - Required for most parts of interacting with Infinity Engine pieces. Included for convenience here, but you can also source from https://weidu.org/ if you don't trust any random exe on the internet (good on you!)
 
+Installation of packs:
+Run included 00AutoVOInstall.ps1 powershell script to install the packs with weidu.exe. You might need to run weidu.exe once from command line, if you didn't download the conf file as well.
+
+Start the game, and goto the Smouldering Corpse Bar (Just South and East of your exit from the hive). Talk to all 17 NPCs there: they all have narration parts and voices for themselves!
+
 Latest Released Packs:
 
 Smouldering Corpse Bar (3 hours of audio!) - https://gofile.io/d/TvZMPr
